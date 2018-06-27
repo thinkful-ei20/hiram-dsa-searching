@@ -1,0 +1,16 @@
+#root {
+  text-align: center;
+}
+
+textarea {
+  min-width: 300px;
+  width: 50%;
+  min-height: 50px;
+  height: 100px;
+}
+
+input,
+button {
+  display: block;
+  margin: 0.5rem auto;
+}
